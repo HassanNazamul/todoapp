@@ -1,0 +1,17 @@
+.nazContainer{
+    text-align: left;
+}
+
+input {
+    width: 100%;
+}
+
+
+
+.naz-btn{
+    min-width: 71px;
+}
+
+.naz-row{
+    margin: 7px 3px;
+}
